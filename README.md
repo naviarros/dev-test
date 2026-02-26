@@ -26,7 +26,7 @@ php -r "unlink('composer-setup.php');"
 sudo mv composer.phar /usr/local/bin/composer
 composer --version
 
-** For windows
+**For windows:**
 
 Download and run https://getcomposer.org/download/ - Composer-Setup.exe
 
